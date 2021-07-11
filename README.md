@@ -1,8 +1,8 @@
 # CSS Zen Garden: The Beauty of CSS Design
 
-> [Your name]
+> Chayangkun Rittidech || ชยางกูร ฤทธิเดช
 >  
-> [Your ID]
+> 6210402381
 
 ## Task
 
